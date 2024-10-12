@@ -89,13 +89,11 @@ section {
 	padding-top: 50px;
 	margin-top: 50px;
 }
-
 .navbar {
 	height: 105px;
 	max-height: 340px;
 	display: inline-block;
 }
-
 .container {
 	padding-right: 15px;
 	padding-left: 15px;
